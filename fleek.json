@@ -1,6 +1,5 @@
 {
-  "id": "clduo1yk30002l708e3z1fm8d",
-  "name": "gatsby-site",
-  "distDir": "public",
-  "buildCommand": "yarn run build"
+  "id": "cle7k5pu40000ml08qj1j60yh",
+  "name": "demo-test",
+  "distDir": "public"
 }
